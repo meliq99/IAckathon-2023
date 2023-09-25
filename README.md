@@ -3,6 +3,7 @@
 Este repositorio contiene un modelo de red neuronal LSTM (Long Short-Term Memory) desarrollado para la predicción del volumen de procesos en la categoría de menor cuantía. La elección de este modelo se basa en su capacidad para predecir series temporales, lo que lo convierte en una herramienta poderosa para anticipar el número de procesos que se llevarán a cabo el mes siguiente y comprender su comportamiento a lo largo del tiempo.
 
 <img src="https://github.com/meliq99/IAckathon-2023/blob/master/im%C3%A1genes/menorcuantia.png">
+
 ## Contexto del Proyecto
 
 Los datos utilizados en este proyecto fueron recopilados de la categoría de menor cuantía desde el año 2018 hasta el 14 de septiembre de 2023 desde la plataforma [Datos Abiertos de contratación pública del Ecuador en OCDS](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos). Se extrajo información relevante de los datos, específicamente la fecha de inicio del período de licitación **(tenderPeriod_startDate)** del apartado de **Tender**. Estas fechas se utilizaron para calcular la cantidad de procesos que se realizan diariamente, que denominamos **'Frequency'**.
