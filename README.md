@@ -1,4 +1,4 @@
-# Modelo de red neuronal LSTM para la predicción del volumen de procesos en la categoria de menor cuantia (IAckathon-2023)
+# Modelo de red neuronal LSTM para la predicción del volumen de procesos en la categoria de menor cuantía (IAckathon-2023)
 
 Este repositorio contiene un modelo de red neuronal LSTM (Long Short-Term Memory) desarrollado para la predicción del volumen de procesos en la categoría de menor cuantía. La elección de este modelo se basa en su capacidad para predecir series temporales, lo que lo convierte en una herramienta poderosa para anticipar el número de procesos que se llevarán a cabo el mes siguiente y comprender su comportamiento a lo largo del tiempo.
 
@@ -12,6 +12,9 @@ Siéntase libre de explorar el código y los resultados en este repositorio para
 
 
 
-# Visualizacion de los datos MENOR CUANTIA
-# Predicciones 
-[link](https://public.tableau.com/views/MenorCuantaEcuador2018-2023/Dashboard2?:language=es-ES&:display_count=n&:origin=viz_share_link)
+## Visualización de las Predicciones
+
+Para explorar en detalle los datos procesados y las predicciones generadas por nuestro modelo, le invitamos a visitar la plataforma de visualización en Tableau llamada "Predicciones de Contratos Menor Cuantía". Aquí encontrará un gráfico interactivo que proporcionan una comprensión completa del volumen de procesos y las predicciones asociadas.
+
+Por favor, acceda a nuestra [visualización en Tableau](https://public.tableau.com/views/MenorCuantaEcuador2018-2023/Dashboard2?:language=es-ES&:display_count=n&:origin=viz_share_link) para analizar de manera más profunda y personalizada las predicciones y los datos históricos. Este recurso le permitirá tomar decisiones informadas y planificar estratégicamente en el contexto de la categoría de MENOR CUANTIA.
+
