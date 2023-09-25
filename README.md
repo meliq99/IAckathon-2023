@@ -18,8 +18,7 @@ El objetivo principal de este proyecto es desarrollar un modelo de predicción p
 * **Creación del modelo:** Se procedió a la creación del modelo.
  
 
-
-Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo y sus aplicaciones en la categoría de menor cuantía, en el siguiente [COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
+Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo, como la división de los datos para validación y testeo, la afinación de hiperparámetros, la metrica usada para medir la precisión del modelo, y sus aplicaciones en la categoría de menor cuantía, en el siguiente COLAB. [COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
 
 
 
