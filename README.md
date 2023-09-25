@@ -9,7 +9,7 @@ Los datos utilizados en este proyecto fueron recopilados de la categoría de men
 
 El objetivo principal de este proyecto es desarrollar un modelo de predicción preciso que pueda ayudar en la planificación y toma de decisiones relacionadas con los procesos de menor cuantía. El modelo de red neuronal LSTM se entrena utilizando estos datos históricos y se evalúa su capacidad para pronosticar el volumen futuro de procesos.
 
-Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo y sus aplicaciones en la categoría de menor cuantía, en el siguiente enlace [COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
+Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo y sus aplicaciones en la categoría de menor cuantía, en el siguiente [COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
 
 
 
