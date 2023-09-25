@@ -6,9 +6,17 @@ Este repositorio contiene un modelo de red neuronal LSTM (Long Short-Term Memory
 
 ## Contexto del Proyecto
 
-Los datos utilizados en este proyecto fueron recopilados de la categoría de menor cuantía desde el año 2018 hasta el 14 de septiembre de 2023 desde la plataforma [Datos Abiertos de contratación pública del Ecuador en OCDS](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos). Se extrajo información relevante de los datos, específicamente la fecha de inicio del período de licitación **(tenderPeriod_startDate)** del apartado de **Tender**. Estas fechas se utilizaron para calcular la cantidad de procesos que se realizan diariamente, que denominamos **'Frequency'**.
+Los datos utilizados en este proyecto fueron recopilados de la categoría de menor cuantía desde el año 2018 hasta el 14 de septiembre de 2023 desde la plataforma [Datos Abiertos de contratación pública del Ecuador en OCDS](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos). 
 
+## Objetivo del Proyecto 
 El objetivo principal de este proyecto es desarrollar un modelo de predicción preciso que pueda ayudar en la planificación y toma de decisiones relacionadas con los procesos de menor cuantía. El modelo de red neuronal LSTM se entrena utilizando estos datos históricos y se evalúa su capacidad para pronosticar el volumen futuro de procesos.
+
+### Metodología 
+Se extrajo información relevante de los datos, específicamente la fecha de inicio del período de licitación **(tenderPeriod_startDate)** del apartado de **Tender**. Estas fechas se utilizaron para calcular la cantidad de procesos que se realizan diariamente, que denominamos **'Frequency'**.
+* Extracción de datos
+* Seleccionamos los datos de la
+* Agregamos 
+
 
 Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo y sus aplicaciones en la categoría de menor cuantía, en el siguiente [COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
 
