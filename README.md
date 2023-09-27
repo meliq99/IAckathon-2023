@@ -18,7 +18,7 @@ El objetivo principal de este proyecto es desarrollar un modelo de predicción p
 * **Creación del modelo:** Se procedió a la creación del modelo.
  
 
-Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo, como la división de los datos para validación y testeo, la afinación de hiperparámetros, la metrica usada para medir la precisión del modelo, y sus aplicaciones en la categoría de menor cuantía, en el siguiente[COLAB](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
+Siéntase libre de explorar el código y los resultados en este repositorio para obtener más detalles sobre el modelo, como la división de los datos para validación y testeo, la afinación de hiperparámetros, la metrica usada para medir la precisión del modelo, y sus aplicaciones en la categoría de menor cuantía, en el siguiente [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iufFQNTk_LX2AAyes_-0kqLvEAVvjtDJ?usp=sharing).
 
 
 
@@ -34,6 +34,9 @@ Por favor, acceda a nuestra [visualización en Tableau](https://public.tableau.c
 # Explicación del Proyecto (video)
 Podra encontrar la explicación del código y de la visualización de la gráfica en el siguiente     [VIDEO](https://drive.google.com/drive/folders/12gipx5SR8YG5cNOTxBEPkWRXFZAyQQCh?usp=sharing)
 
+# Trabajo a Futuro 
+
+Una posible extensión de nuestro proyecto sería desarrollar el modelo para pronosticar la cantidad de contratos en comparación con otros tipos de categorīas existentes.
 # AUTORES
 * [Melissa Marisol Quiñonez Londoño](https://www.linkedin.com/in/melissa-qui%C3%B1onez-0015041a1/) (melissa.quinonez@yachaytech.edu.ec)
 * [Escobar Caicedo Sergy Joel](https://www.linkedin.com/in/sergy-escobar-626588293/) (sergy.escobar@yachaytech.edu.ec)
