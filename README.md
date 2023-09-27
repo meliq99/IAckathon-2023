@@ -30,3 +30,11 @@ Para explorar en detalle los datos procesados y las predicciones generadas por n
 Por favor, acceda a nuestra [visualización en Tableau](https://public.tableau.com/views/MenorCuantaEcuador2018-2023/Dashboard2?:language=es-ES&:display_count=n&:origin=viz_share_link) para analizar de manera más profunda y personalizada las predicciones y los datos históricos. Este recurso le permitirá tomar decisiones informadas y planificar estratégicamente en el contexto de la categoría de MENOR CUANTIA.
 
 <img src="https://github.com/meliq99/IAckathon-2023/blob/master/im%C3%A1genes/datos.png">
+
+# Explicación del Proyecto (video)
+Podra encontrar la explicación del código y de la visualización de la gráfica en el siguiente[VIDEO](https://drive.google.com/drive/folders/12gipx5SR8YG5cNOTxBEPkWRXFZAyQQCh?usp=sharing)
+
+# AUTORES
+* [Melissa Marisol Quiñonez Londoño](https://www.linkedin.com/in/melissa-qui%C3%B1onez-0015041a1/)
+* [Escobar Caicedo Sergy Joel]() 
+* [Paredes Benavides Jimmy Gerardo]()
