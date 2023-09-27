@@ -36,5 +36,5 @@ Podra encontrar la explicación del código y de la visualización de la gráfic
 
 # AUTORES
 * [Melissa Marisol Quiñonez Londoño](https://www.linkedin.com/in/melissa-qui%C3%B1onez-0015041a1/)
-* [Escobar Caicedo Sergy Joel]() 
-* [Paredes Benavides Jimmy Gerardo]()
+* [Escobar Caicedo Sergy Joel](www.linkedin.com/in/sergy-escobar-626588293) 
+* [Paredes Benavides Jimmy Gerardo](www.linkedin.com/in/jimmy-paredes-43258a293)
