@@ -33,7 +33,6 @@ Por favor, acceda a nuestra [visualización en Tableau](https://public.tableau.c
     <img src="https://github.com/meliq99/IAckathon-2023/blob/master/im%C3%A1genes/datos.png">
 
 </a>
-<img src="https://github.com/meliq99/IAckathon-2023/blob/master/im%C3%A1genes/datos.png">
 
 # Explicación del Proyecto (video)
 Podra encontrar la explicación del código y de la visualización de la gráfica en el siguiente     [VIDEO](https://drive.google.com/drive/folders/12gipx5SR8YG5cNOTxBEPkWRXFZAyQQCh?usp=sharing)
