@@ -32,9 +32,9 @@ Por favor, acceda a nuestra [visualización en Tableau](https://public.tableau.c
 <img src="https://github.com/meliq99/IAckathon-2023/blob/master/im%C3%A1genes/datos.png">
 
 # Explicación del Proyecto (video)
-Podra encontrar la explicación del código y de la visualización de la gráfica en el siguiente[VIDEO](https://drive.google.com/drive/folders/12gipx5SR8YG5cNOTxBEPkWRXFZAyQQCh?usp=sharing)
+Podra encontrar la explicación del código y de la visualización de la gráfica en el siguiente     [VIDEO](https://drive.google.com/drive/folders/12gipx5SR8YG5cNOTxBEPkWRXFZAyQQCh?usp=sharing)
 
 # AUTORES
-* [Melissa Marisol Quiñonez Londoño](https://www.linkedin.com/in/melissa-qui%C3%B1onez-0015041a1/)
-* [Escobar Caicedo Sergy Joel](www.linkedin.com/in/sergy-escobar-626588293) 
-* [Paredes Benavides Jimmy Gerardo](www.linkedin.com/in/jimmy-paredes-43258a293)
+* [Melissa Marisol Quiñonez Londoño](https://www.linkedin.com/in/melissa-qui%C3%B1onez-0015041a1/) (melissa.quinonez@yachaytech.edu.ec)
+* [Escobar Caicedo Sergy Joel](www.linkedin.com/in/sergy-escobar-626588293) (sergy.escobar@yachaytech.edu.ec)
+* [Paredes Benavides Jimmy Gerardo](www.linkedin.com/in/jimmy-paredes-43258a293)  (jimy.paredes@yachaytech.edu.ec)
